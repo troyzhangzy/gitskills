@@ -1,0 +1,5 @@
+<view class="playlist-container">
+  <image class="playlist-img" src="{{playlist.picUrl}}"></image>
+  <view class="playlist-playcount">{{_count}}</view>
+  <view class="playlist-name">{{playlist.name}}</view>
+</view>

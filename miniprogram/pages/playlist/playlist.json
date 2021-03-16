@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "z-playlist":"../../components/playlist/playlist"
+  }
+}
